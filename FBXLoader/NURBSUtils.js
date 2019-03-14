@@ -10,7 +10,7 @@
 /**************************************************************
  *	NURBS Utils
  **************************************************************/
-import * as THREE from 'three';
+import * as THREE from '/three.module';
 const NURBSUtils = {
 
 	/*
