@@ -18,9 +18,9 @@
  *		https://code.blender.org/2013/08/fbx-binary-file-format-specification/
  */
 
-import * as THREE from 'three';
-import { NURBSCurve } from './NURBSCurve';
-import { TGALoader } from './TGALoader';
+import * as THREE from '/three.module';
+import { NURBSCurve } from '/NURBSCurve';
+import { TGALoader } from '/TGALoader';
 const FBXLoader = (function () {
 
 	var fbxTree;
